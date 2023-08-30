@@ -1,4 +1,9 @@
 git init 
 git config user.name
 git config user.email
-git add -addgit commit -m "Meu primeiro commit"
+git add -A
+git commit -m "Meu primeiro commit"
+
+aprendendo branch
+comandos
+git branch
