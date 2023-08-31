@@ -7,3 +7,7 @@ git commit -m "Meu primeiro commit"
 aprendendo branch
 comandos
 git branch
+git checkout master
+git checkout arthur
+depois de fazer chekout no master 
+git merge arthur
